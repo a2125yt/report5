@@ -1,4 +1,3 @@
 language: bash
 script:
-       - echo "hello"
-       - echo ./same-test.sh
+       - echo ./gcd-test.sh
